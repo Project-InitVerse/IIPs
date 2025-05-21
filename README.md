@@ -62,3 +62,4 @@ InitVerse is still in its early development phase, but it is committed to buildi
 | IIP #                                                                         | Title | Type | Author | Status |
 |-------------------------------------------------------------------------------|-------|------|--------|--------|
 | [001](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-001.md) | IIP Purpose and Guidelines | IIP | @joaquinps | Active |
+| [002](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-002.md) | Create the ViaC_DAO, INI ecosystem decentralized autonomous organization. | IIP | @ViaC-DAO | Active |
