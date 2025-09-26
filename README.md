@@ -64,3 +64,4 @@ InitVerse is still in its early development phase, but it is committed to buildi
 | [001](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-001.md) | IIP Purpose and Guidelines | Protocol Upgrade | @joaquinps | Active |
 | [002](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-002.md) | Create the ViaC_DAO, INI ecosystem decentralized autonomous organization. | Organizational | @ViaC-DAO | Active |
 | [003](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-003.md) | PoW Consensus Parameter Adjustment: Reduce Block Time, Modify Rewards and Halving Cycle. | Protocol Upgrade | @SullivanPrime | Active |
+| [004](https://github.com/Project-InitVerse/IIPs/blob/main/IIPS/iip-004.md) | PCore Module Upgrade and rfhe Version Adaptation | Core Upgrade | InitVerse Core Development Team | Accepted |
